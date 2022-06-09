@@ -15,9 +15,9 @@ CREATE table starbucks (
 
 INSERT INTO starbucks (name, calories, fat, carb, protein, sodium) VALUES
 ('Iced Vanilla Latte', 190, 4, 30, 7, 100),
-('Mocha Frappuccino', 280, 2.5, 60, 4, 220),
+('Mocha Frappuccino', 280, 3, 60, 4, 220),
 ('White Chocolate Mocha', 360, 11, 53, 14, 240),
 ('Strawberry Acai Refreshers', 80, 0, 18, 0, 10),
 ('Shaken Sweet Tea', 80, 0, 19, 0, 10),
-('Iced Carmel Macchiato', 130, 2.5, 21, 5, 65),
+('Iced Carmel Macchiato', 130, 3, 21, 5, 65),
 ('Hot Chocolate', 320, 9, 47, 14, 160);
